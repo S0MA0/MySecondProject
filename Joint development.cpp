@@ -1,5 +1,12 @@
 Тест - коллабораторов и соавторов
 
+class Bds
+{
+public:
+dfsdfsgfdfg;
+fdfs;
+sdfsfsd;	
+};
 class A
 {
 public:
