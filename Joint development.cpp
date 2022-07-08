@@ -1,6 +1,6 @@
 Тест - коллабораторов и соавторов
 
-class B
+class A
 {
 public:
 int d;	
